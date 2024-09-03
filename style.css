@@ -2,3 +2,19 @@
     box-sizing: border-box;
 }
 
+body {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    color:darkgreen;
+}
+
+
+img {
+    margin: auto;
+    max-width: 50%;
+    padding-bottom: 50px;
+}
