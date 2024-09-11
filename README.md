@@ -1,5 +1,4 @@
-# desn3035-e1
-DESN3035 Exercise 1  
+# DESN3035 Exercise 1
 09/03/2024  
   
 Exercise description: Using GitHub and its various products (GitHub Pages, and Codespaces), create and publish a simple microsite that demonstrates the fundamental skills in version control and repo management.  
